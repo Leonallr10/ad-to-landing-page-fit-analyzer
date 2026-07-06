@@ -39,6 +39,10 @@ When someone clicks an ad, they expect the landing page to **continue the same p
 
 ---
 
+## Demo Image 
+<img width="1853" height="950" alt="Image" src="https://github.com/user-attachments/assets/37e9342c-2919-4067-aa1f-1a8a247baf08" />
+<img width="1863" height="938" alt="Image" src="https://github.com/user-attachments/assets/5d7eeeda-9cf3-461c-a313-02356d654fd1" />
+
 ## Prerequisites
 
 - **Python 3.10+**
