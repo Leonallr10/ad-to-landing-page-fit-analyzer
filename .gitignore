@@ -1,0 +1,15 @@
+# Secrets
+.env
+backend/.env
+
+# Python
+backend/venv/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
